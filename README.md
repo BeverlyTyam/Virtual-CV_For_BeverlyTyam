@@ -8,6 +8,7 @@ Responsive Design: The website is designed to be responsive and accessible on va
 Smooth Scrolling: The website includes smooth scrolling functionality, allowing users to navigate between sections seamlessly.
 Project Showcase: The portfolio section highlights my recent projects, including descriptions, technologies used, and links to live demos or GitHub repositories.
 Contact Form: Users can get in touch with me through the integrated contact form, which can be customized to send emails or connect with a backend system.
+
 ######Technologies Used:
 HTML5
 CSS3
