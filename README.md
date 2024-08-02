@@ -16,15 +16,15 @@ JavaScript
 ########Installation
 To run the website locally, follow these steps:
 
-Clone the repository: git clone https://github.com/your-username/your-repo.git
+Clone the repository: git clone https://github.com/BeverlyTyam/Virtual-CV_For_BeverlyTyam.git
 Navigate to the project directory: cd your-repo
 Open the index.html file in a web browser.
-Alternatively, you can view the live version of the website at [].
+Alternatively, you can view the live version of the website at [https://raw.githubusercontent.com/BeverlyTyam/Virtual-CV_For_BeverlyTyam/main/index.html].
 
 ##########Usage
 The website is designed to be user-friendly and intuitive. Users can navigate through the different sections using the navigation menu or by scrolling. The portfolio section showcases my projects, and users can click on the project links to view more details or live demos.
 
-The contact form can be used to get in touch with me, and the provided information will be sent to [specify the recipient or integration details].
+The contact form can be used to get in touch with me, and the provided information will be sent to [Pamella.T08@gmail.com].
 
 ############Contributing
 If you'd like to contribute to this project, please follow these steps:
